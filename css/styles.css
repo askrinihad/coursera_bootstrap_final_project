@@ -1,0 +1,24 @@
+body{
+    margin: 0px auto;
+}
+
+.navbar-dark {
+        background-color: #3da3d3; 
+    }
+
+.d-flex{
+    height: 150px;
+    width: 150px;
+}
+.rounded-circle {
+    height: 70px;
+    width: 70px;
+}
+.jumbotron{
+    background: none;
+    padding: 100px 30px;
+}
+.dropdown{
+   
+    color: white;
+}
